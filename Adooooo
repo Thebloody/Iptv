@@ -1,69 +1,75 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="ABC News" tvg-logo="" group-title="ALBANIAN",ABC News
-http://stariptv.org:8080/wael2021/123456/59191
-#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD" tvg-logo="" group-title="ALBANIAN",RTSH 1 HD
-http://stariptv.org:8080/wael2021/123456/59039
-#EXTINF:-1 tvg-id="" tvg-name="TVSH HD" tvg-logo="" group-title="ALBANIAN",TVSH HD
-http://stariptv.org:8080/wael2021/123456/59026
-#EXTINF:-1 tvg-id="" tvg-name="CH-1 SHKODRA" tvg-logo="" group-title="ALBANIAN",CH-1 SHKODRA
-http://stariptv.org:8080/wael2021/123456/59596
-#EXTINF:-1 tvg-id="" tvg-name="Channel 1 Shkoder" tvg-logo="" group-title="ALBANIAN",Channel 1 Shkoder
-http://stariptv.org:8080/wael2021/123456/59080
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA-TV SHKODER" tvg-logo="" group-title="ALBANIAN",ANTENA-TV SHKODER
-http://stariptv.org:8080/wael2021/123456/59599
-#EXTINF:-1 tvg-id="" tvg-name="Star + Shkodra" tvg-logo="" group-title="ALBANIAN",Star + Shkodra
-http://stariptv.org:8080/wael2021/123456/59047
-#EXTINF:-1 tvg-id="" tvg-name="TV Rozafa" tvg-logo="" group-title="ALBANIAN",TV Rozafa
-http://stariptv.org:8080/wael2021/123456/59062
-#EXTINF:-1 tvg-id="" tvg-name="TV KLAN HD" tvg-logo="" group-title="ALBANIAN",TV KLAN HD
-http://stariptv.org:8080/wael2021/123456/59025
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="ALBANIAN",Top Channel HD
-http://stariptv.org:8080/wael2021/123456/59208
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus HD" tvg-logo="" group-title="ALBANIAN",Vizion Plus HD
-http://stariptv.org:8080/wael2021/123456/59141
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M HD" tvg-logo="" group-title="ALBANIAN",Alsat M HD
-http://stariptv.org:8080/wael2021/123456/59241
-#EXTINF:-1 tvg-id="" tvg-name="BLUE SKY TV" tvg-logo="" group-title="ALBANIAN",BLUE SKY TV
-http://stariptv.org:8080/wael2021/123456/59597
-#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="ALBANIAN",Top News
-http://stariptv.org:8080/wael2021/123456/59023
-#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="ALBANIAN",Fax News
-http://stariptv.org:8080/wael2021/123456/59595
-#EXTINF:-1 tvg-id="" tvg-name="Kanali 7 News" tvg-logo="" group-title="ALBANIAN",Kanali 7 News
-http://stariptv.org:8080/wael2021/123456/59099
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="ALBANIAN",News 24
-http://stariptv.org:8080/wael2021/123456/59159
-#EXTINF:-1 tvg-id="" tvg-name="ON TV" tvg-logo="" group-title="ALBANIAN",ON TV
-http://stariptv.org:8080/wael2021/123456/59138
-#EXTINF:-1 tvg-id="" tvg-name="ORA News" tvg-logo="" group-title="ALBANIAN",ORA News
-http://stariptv.org:8080/wael2021/123456/59158
-#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="ALBANIAN",Report TV
-http://stariptv.org:8080/wael2021/123456/59155
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1" tvg-logo="" group-title="ALBANIAN",Super Sport 1
-http://stariptv.org:8080/wael2021/123456/59217
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="" group-title="ALBANIAN",Super Sport 1 HD
-http://stariptv.org:8080/wael2021/123456/59134
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2" tvg-logo="" group-title="ALBANIAN",Super Sport 2
-http://stariptv.org:8080/wael2021/123456/59216
-#EXTINF:-1 tvg-id="" tvg-name="Al: Super Sport 2 HD" tvg-logo="" group-title="ALBANIAN",Al: Super Sport 2 HD
-http://stariptv.org:8080/wael2021/123456/59133
-#EXTINF:-1 tvg-id="" tvg-name="Super sport 3" tvg-logo="" group-title="ALBANIAN",Super sport 3
-http://stariptv.org:8080/wael2021/123456/59215
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 3 HD" tvg-logo="" group-title="ALBANIAN",Super Sport 3 HD
-http://stariptv.org:8080/wael2021/123456/59132
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4" tvg-logo="" group-title="ALBANIAN",Super Sport 4
-http://stariptv.org:8080/wael2021/123456/59214
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 4 HD" tvg-logo="" group-title="ALBANIAN",Super Sport 4 HD
-http://stariptv.org:8080/wael2021/123456/59131
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 5" tvg-logo="" group-title="ALBANIAN",Super Sport 5
-http://stariptv.org:8080/wael2021/123456/59213
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 6" tvg-logo="" group-title="ALBANIAN",Super Sport 6
-http://stariptv.org:8080/wael2021/123456/59212
-#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 1 HD" tvg-logo="" group-title="ALBANIAN",TRING SPORT 1 HD
-http://stariptv.org:8080/wael2021/123456/59199
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="ALBANIAN",Tring Sport 2 HD
-http://stariptv.org:8080/wael2021/123456/59143
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="ALBANIAN",Tring Sport 3 HD
-http://stariptv.org:8080/wael2021/123456/59142
-#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 4 HD" tvg-logo="" group-title="ALBANIAN",TRING SPORT 4 HD
-http://stariptv.org:8080/wael2021/123456/59198
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="REPORT HD" tvg-logo="http://ky-iptv.com:80/images/38c40d09b23e7dfd2d56bc6e81bccfec.png" group-title="Albania",REPORT HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384528.ts
+#EXTINF:-1 tvg-id="" tvg-name="RTSH 1 HD" tvg-logo="http://ky-iptv.com:80/images/ec57331b7db7f2ea6ecb4651f241d9d5.png" group-title="Albania",RTSH 1 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384541.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROZAFA TV" tvg-logo="" group-title="Albania",ROZAFA TV
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384529.ts
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan HD" tvg-logo="http://ky-iptv.com:25461/images/79fea14bb8ccf8528b927512e9cff5e0.png" group-title="Albania",Klan HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/222371.ts
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="TOP Channel FHD" tvg-logo="http://ky-iptv.com:25461/images/b24d05650da543bd2ee79739c1527902.png" group-title="Albania",TOP Channel FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384656.ts
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="VIZION PLUS FHD" tvg-logo="http://ky-iptv.com:25461/images/a715fbfeb4d77500d648fcc78547534f.png" group-title="Albania",VIZION PLUS FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384714.ts
+#EXTINF:-1 tvg-id="TVKoper.si" tvg-name="TV KOPLIKU" tvg-logo="http://ky-iptv.com:80/images/8419e0e45158a40d10d18f92845e4689.png" group-title="Albania",TV KOPLIKU
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384700.ts
+#EXTINF:-1 tvg-id="TVO.ch" tvg-name="TV Koha" tvg-logo="http://ky-iptv.com:80/images/220fb3486d79c3592901f6ae399c4638.png" group-title="Albania",TV Koha
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384698.ts
+#EXTINF:-1 tvg-id="AlsatM.al" tvg-name="ALSAT M FHD" tvg-logo="http://ky-iptv.com:80/images/63d2dbd3fecd84e0e280fceda911beed.png" group-title="Albania",ALSAT M FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384259.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP NEWS HD" tvg-logo="http://ky-iptv.com:80/images/a3573dd29e5d538e378acf428f8b8fb0.png" group-title="Albania",TOP NEWS HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384657.ts
+#EXTINF:-1 tvg-id="" tvg-name="A1 Report" tvg-logo="http://ky-iptv.com:80/images/73f6846c1da7235bfe71363b47975858.png" group-title="Albania",A1 Report
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384234.ts
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-name="ABC NEWS" tvg-logo="http://ky-iptv.com:80/images/27ab0949e2e00432b582a6f31c6afb2b.png" group-title="Albania",ABC NEWS
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384237.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARENA SPORT 5 HD" tvg-logo="http://ky-iptv.com:25461/images/bdd71957c026223a1a1f6c2d89974edb.png" group-title="Albania",ARENA SPORT 5 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384265.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARTA NEWS HD" tvg-logo="http://ky-iptv.com:80/images/a7cb0085749b21e3a27de0df49668f06.png" group-title="Albania",ARTA NEWS HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384274.ts
+#EXTINF:-1 tvg-id="" tvg-name="euronews HD" tvg-logo="http://ky-iptv.com:80/images/c6eb93c5897a6a2965c52a49caa2c959.png" group-title="Albania",euronews HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384347.ts
+#EXTINF:-1 tvg-id="FannEn.sa" tvg-name="Fax News" tvg-logo="http://ky-iptv.com:25461/images/dce9a64a07a777abf7c7611b14b49be3.png" group-title="Albania",Fax News
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384363.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/768px-Fox_News_Channel_logo.svg.png" group-title="Albania",FOX News HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384393.ts
+#EXTINF:-1 tvg-id="KanakNews.in" tvg-name="Kanali 7 NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFJaqOsJSEADcRU4b9YlQqaCqQ23tmbJAMr6Y93gSOekmbmkE4gUg3Mf2vIObgVUtJMn4&usqp=CAU" group-title="Albania",Kanali 7 NEWS
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384425.ts
+#EXTINF:-1 tvg-id="News24.in" tvg-name="NEWS 24" tvg-logo="http://ky-iptv.com:80/images/f953e11ae564b97866081a78cb66865b.png" group-title="Albania",NEWS 24
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384504.ts
+#EXTINF:-1 tvg-id="" tvg-name="ORA NWES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Ora_News_%28Albania%29.svg" group-title="Albania",ORA NWES FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384517.ts
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="ART SPORT 1 HD" tvg-logo="data:image/jpeg;base64,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" group-title="Albania",ART SPORT 1 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384271.ts
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="ART SPORT 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GbjNRnIknmPljrVN4I0qixtO3cClJOnmvg&usqp=CAU" group-title="Albania",ART SPORT 2 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384272.ts
+#EXTINF:-1 tvg-id="SmartSpor.tr" tvg-name="ART SPORT 3 HD" tvg-logo="" group-title="Albania",ART SPORT 3 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384273.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://ky-iptv.com:25461/images/96182f0c753f4dfb1bb17c896a5e73e6.png" group-title="Albania",EUROSPORT 1 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384351.ts
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://ky-iptv.com:80/images/2197fcd7abc808f27a2e7bacbb67cb07.png" group-title="Albania",EUROSPORT 2 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Super Sport 1 HD" tvg-logo="http://ky-iptv.com:80/images/9eb6497b67165f4a884bf91cdb9f22c9.png" group-title="Albania",Super Sport 1 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384625.ts
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SUPER SPORT 2 FHD" tvg-logo="http://ky-iptv.com:80/images/061ac823668ff8aeb70f5b32fb5fea2d.png" group-title="Albania",SUPER SPORT 2 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384627.ts
+#EXTINF:-1 tvg-id="SuperSportKosova1.al" tvg-name="Super Sport 2 Kosova HD" tvg-logo="" group-title="Albania",Super Sport 2 Kosova HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384628.ts
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SUPER SPORT 3 FHD" tvg-logo="http://ky-iptv.com:80/images/4ff0a3ee7f52661bc8b3455cffc8f999.png" group-title="Albania",SUPER SPORT 3 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384629.ts
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SUPER SPORT 4 FHD" tvg-logo="http://ky-iptv.com:80/images/55b98a77a4a35e4d50d22262470a8de0.png" group-title="Albania",SUPER SPORT 4 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384630.ts
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SUPER SPORT 5 FHD" tvg-logo="http://ky-iptv.com:25461/images/0af36a3da9596617da836770d6713324.png" group-title="Albania",SUPER SPORT 5 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384631.ts
+#EXTINF:-1 tvg-id="" tvg-name="SUPER SPORT 6 FHD" tvg-logo="http://ky-iptv.com:80/images/1a0b84d1e61c3218a76569fbe38eb26b.png" group-title="Albania",SUPER SPORT 6 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384632.ts
+#EXTINF:-1 tvg-id="SuperSport7.ng" tvg-name="Super Sport 7 HD" tvg-logo="" group-title="Albania",Super Sport 7 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384633.ts
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="TRING SPORT 1 FHD" tvg-logo="http://ky-iptv.com:80/images/5a0d79b0c927f9fbae5f29dd90bfe090.png" group-title="Albania",TRING SPORT 1 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384680.ts
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="TRING SPORT 2 FHD" tvg-logo="http://ky-iptv.com:25461/images/821cd1bd9f3b30836fc8ca944690c3c1.png" group-title="Albania",TRING SPORT 2 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384681.ts
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="TRING SPORT 3 HD" tvg-logo="" group-title="Albania",TRING SPORT 3 HD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384684.ts
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-name="TRING SPORT 4 FHD" tvg-logo="http://ky-iptv.com:80/images/185e24fbe4def80f2ecc90ba3db4fa64.png" group-title="Albania",TRING SPORT 4 FHD
+http://ky-iptv.com:80/Bobby12345/Bobby12345/384685.ts
